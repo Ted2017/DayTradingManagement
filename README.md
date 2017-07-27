@@ -1,2 +1,0 @@
-# DayTradingManagement
-Day Trading Managment 
